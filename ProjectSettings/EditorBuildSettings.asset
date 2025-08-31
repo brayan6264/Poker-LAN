@@ -11,6 +11,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/_Project/Scenes/Table.unity
     guid: 970dae58a107ec84da4b09cfd19781a6
+  - enabled: 1
+    path: Assets/_Project/Scenes/MainMenu.unity
+    guid: 2355c87b59c35ba448219766d9a6358b
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 3590b91b4603b465dbb4216d601bff33, type: 3}
   m_UseUCBPForAssetBundles: 0
